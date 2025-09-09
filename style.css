@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-resp{
+    max-width: 100%;
+    height: auto;
+}
+
+.genre-badge {
+    border: 1px solid red;
+}
+
+.card-text {
+    min-height: 90px;
+}
