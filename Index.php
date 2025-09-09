@@ -24,7 +24,7 @@ require_once './Models/Movie.php';
     <h1 class='text-center my-3'>The Boolean Db</h1>
     <hr class='my-3'>
     <div class="container">
-        <div class="row row-cols-3 g-3">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
             <?php foreach ($movies as $curr_movie): ?>
                 <div class="col">
                     <div class="card">
